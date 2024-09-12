@@ -20,7 +20,7 @@ O **Sistema de Provas Online** é uma plataforma desenvolvida para facilitar a c
 ## Envolvidos
   
 ### Cliente
-- **Instituituto Federal de Alagoas**: Professor Leonardo Fernandes
+- **Instituituto Federal de Alagoas**: Professor Leonardo Fernandes (Campus Maceió)
 
 ### Equipe de Desenvolvimento
 - **Isaac Barros**: Desenvolvedor Backend - Responsável pela implementação da API e lógica de negócios.
