@@ -23,9 +23,9 @@ O **Sistema de Provas Online** é uma plataforma desenvolvida para facilitar a c
 - **Instituituto Federal de Alagoas**: Professor Leonardo Fernandes (Campus Maceió)
 
 ### Equipe de Desenvolvimento
-- **Isaac Barros**: Desenvolvedor Backend - Responsável pela implementação da API e lógica de negócios.
-- **Luiz Gabriel**: Desenvolvedor Frontend - Focado no desenvolvimento da interface do usuário e integrações com a API.
-- **Ronalde Kelvyn**: Gerente de Projetos - Coordenador das entregas, prazos e comunicação entre a equipe de desenvolvimento e os stakeholders.
+- **Isaac Barros**: 
+- **Luiz Gabriel**: 
+- **Ronalde Kelvyn**: 
 
 ## Prazo de Entrega
 
