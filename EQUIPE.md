@@ -37,6 +37,17 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 **Disponibilidade**:
 - xxx
 - xxx
+
+### 4. Euber Marinho
+**Função**:
+
+**Responsabilidades**:
+- xxx
+- xxx
+
+**Disponibilidade**:
+- xxx
+- xxx
 ## Observações Gerais
 - Horários podem ser ajustados conforme a demanda do projeto e disponibilidade individual.
 - Em caso de reuniões ou prazos críticos, a equipe poderá se reunir fora dos horários estabelecidos.
