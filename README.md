@@ -23,6 +23,8 @@ O **Sistema de Provas Online** é uma plataforma desenvolvida para facilitar a c
 - **Instituituto Federal de Alagoas**: Professor Leonardo Fernandes (Campus Maceió)
 
 ### Equipe de Desenvolvimento
+
+- **Euber Marinho**:
 - **Isaac Barros**: 
 - **Luiz Gabriel**: 
 - **Ronalde Kelvyn**: 
