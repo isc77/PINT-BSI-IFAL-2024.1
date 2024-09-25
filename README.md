@@ -24,10 +24,10 @@ O **Sistema de Provas Online** é uma plataforma desenvolvida para facilitar a c
 
 ### Equipe de Desenvolvimento
 
-- **Euber Marinho**:
-- **Isaac Barros**: 
-- **Luiz Gabriel**: 
-- **Ronalde Kelvyn**: 
+- **Euber Marinho**
+- **Isaac Barros** 
+- **Luiz Gabriel** 
+- **Ronalde Kelvyn**:
 
 ## Prazo de Entrega
 
