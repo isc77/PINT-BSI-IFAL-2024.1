@@ -5,11 +5,14 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 ## Membros da Equipe
 
 ### 1. Isaac Barros
-**Função**: 
+**Função**: Coordenador de Projeto, Designer e Desenvolvedor Front-End 
 
 **Responsabilidades**:
-- xxx
-- xxx
+- Coordenação da equipe e definição de prazos.
+- Definição de prioridades (em conjunto) e organização das sprints.
+- Prototipação de telas e design da interface do usuário.
+- Desenvolvimento do Front-End.
+- Colaboração na documentação técnica do projeto.
  
 **Disponibilidade**:
 - Segunda: 21:30 - 23:00
@@ -17,33 +20,38 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - Domingo: 09:00 - 12:00 || 14:00-16:00
 
 ### 2. Luiz Gabriel
-**Função**: 
+**Função**: Designer e Desenvolvedor Front-End 
 
 **Responsabilidades**:
-- xxx
-- xxx
+- Prototipação de telas e design da interface do usuário.
+- Desenvolvimento de Front-End.
+- Colaboração na documentação técnica do projeto.
+- Teste de funcionalidades e validação da experiência do usuário.
 
 **Disponibilidade**:
 - xxx
 - xxx
 
 ### 3. Ronalde Kelvyn
-**Função**:
+**Função**: Desenvolvedor Backend
 
 **Responsabilidades**:
-- xxx
-- xxx
+- Desenvolvimento da lógica do servidor e APIs RESTful.
+- Integração com bancos de dados e manutenção do backend.
+- Implementação de autenticação, autorização e segurança de dados.
+- Colaboração com o front-end para garantir a integração entre as camadas.
 
 **Disponibilidade**:
 - xxx
 - xxx
 
 ### 4. Euber Marinho
-**Função**:
+**Função**: Desenvolvedor Backend
 
 **Responsabilidades**:
-- xxx
-- xxx
+- Desenvolvimento de funcionalidades no backend.
+- Criação e manutenção de APIs e serviços backend.
+- Gerenciamento do banco de dados e modelagem de dados.
 
 **Disponibilidade**:
 - xxx
