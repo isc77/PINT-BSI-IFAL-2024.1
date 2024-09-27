@@ -14,17 +14,20 @@
 <br>
 
 ## 4. Testes
--
+- Jest
+- Playwright (opcional)
 <br>
 
 ## 5. Banco de Dados
--
+- PostgreSQL
+- MongoDB (opcional)
 <br>
 
 ## 6. Comunicação 
--
+ - RabbitMQ
+ - NGINX
 <br>
 
-## 8. Hospedagem e Deploy
--
+## 7. Hospedagem e Deploy
+- Heroku ou Vercel(front-end)
 
