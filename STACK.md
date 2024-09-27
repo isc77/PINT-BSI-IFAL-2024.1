@@ -2,15 +2,15 @@
 <br>
 
 ## 1. Frontend
--
+- Javascript com React JS 
 <br>
 
 ## 2. Backend
--
+- Node JS
 <br>
 
 ## 3. Frameworks 
--
+- Express JS
 <br>
 
 ## 4. Testes
