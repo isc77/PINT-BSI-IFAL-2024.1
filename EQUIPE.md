@@ -29,8 +29,10 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - Teste de funcionalidades e validação da experiência do usuário.
 
 **Disponibilidade**:
-- xxx
-- xxx
+- Segunda: 19:30 - 00:00
+- quinta: 19:30 - 00:00
+- sexta: 19:30 - 00:00
+- sábado: 21:00 - 00:00
 
 ### 3. Ronalde Kelvyn
 **Função**: Desenvolvedor Backend
