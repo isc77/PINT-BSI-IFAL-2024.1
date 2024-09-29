@@ -15,9 +15,7 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - Colaboração na documentação técnica do projeto.
  
 **Disponibilidade**:
-- Segunda: 21:30 - 23:00
-- Quarta: 19:00 - 21:30
-- Domingo: 09:00 - 12:00 || 14:00-16:00
+- 8h p/ semana
 
 ### 2. Luiz Gabriel
 **Função**: Designer e Desenvolvedor Front-End 
@@ -59,5 +57,4 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - xxx
 - xxx
 ## Observações Gerais
-- Horários podem ser ajustados conforme a demanda do projeto e disponibilidade individual.
-- Em caso de reuniões ou prazos críticos, a equipe poderá se reunir fora dos horários estabelecidos.
+- Disponibilidade pode ser ajustada conforme a demanda do projeto e disponibilidade individual na semana.
