@@ -27,10 +27,7 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - Teste de funcionalidades e validação da experiência do usuário.
 
 **Disponibilidade**:
-- Segunda: 19:30 - 00:00
-- quinta: 19:30 - 00:00
-- sexta: 19:30 - 00:00
-- sábado: 21:00 - 00:00
+- 12h p/ semana
 
 ### 3. Ronalde Kelvyn
 **Função**: Desenvolvedor Backend
@@ -42,8 +39,7 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - Colaboração com o front-end para garantir a integração entre as camadas.
 
 **Disponibilidade**:
-- xxx
-- xxx
+- 8h p/ semana
 
 ### 4. Euber Marinho
 **Função**: Desenvolvedor Backend
@@ -54,7 +50,7 @@ Este arquivo contém informações sobre os membros da equipe, suas funções e 
 - Gerenciamento do banco de dados e modelagem de dados.
 
 **Disponibilidade**:
-- xxx
-- xxx
+- 8h p/ semana
+
 ## Observações Gerais
 - Disponibilidade pode ser ajustada conforme a demanda do projeto e disponibilidade individual na semana.
