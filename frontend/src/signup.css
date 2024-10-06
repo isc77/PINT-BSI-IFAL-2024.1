@@ -1,0 +1,207 @@
+/* Signup.css */
+body {
+    background-color: #adb4aa; /* Cor de fundo do corpo */
+    display: flex; /* Ativa o layout flex */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    min-height: 100vh; /* Garante que o corpo ocupe a altura total da tela */
+    margin: 0; /* Remove margens padrão */
+}
+.signup-container {
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    width: 100%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 1rem; 
+    background-color: #ffffff; 
+    border-radius: 12px; 
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); 
+}
+
+.logo-container {
+    flex: 1; 
+    display: flex;
+    justify-content: left;
+    margin-right: 3rem; 
+}
+
+.large-logo {
+    max-width: 300%; /* Ajusta a largura da logo */
+    height: auto; 
+}
+
+.form-container {
+    flex: 2; 
+    padding: 2rem; 
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1.5rem; /* Espaço abaixo do título */
+    font-size: 28px; /* Tamanho da fonte para o título */
+    color: #333; /* Cor do texto */
+}
+
+.user-type-select {
+    display: flex;
+    justify-content: center; /* Centraliza os botões de tipo de usuário */
+    margin-bottom: 2rem;
+}
+
+.user-type-select button {
+    flex: 0 0 80px; /* Define uma largura fixa para os botões (80px) */
+    padding: 0.5rem; /* Ajusta o padding dos botões */
+    border: none;
+    background-color: #333; /* Cor de fundo preto */
+    color: white; /* Texto branco */
+    cursor: pointer;
+    border-radius: 8px; /* Bordas arredondadas */
+    transition: background-color 0.3s; /* Adiciona transição */
+    margin: 0 0.5rem; /* Espaço entre os botões */
+}
+
+.user-type-select button:hover {
+    background-color: #4CAF50; /* Cor ao passar o mouse */
+}
+
+.user-type-select button.active {
+    background-color: #4CAF50; /* Cor do botão ativo */
+}
+
+form label {
+    display: flex; /* Usa flexbox para alinhar verticalmente */
+    flex-direction: column; /* Alinha os itens em coluna */
+    margin-bottom: 1rem;
+}
+
+form input, form select {
+    width: 100%;
+    padding: 0.75rem; /* Aumenta o padding dos inputs */
+    margin-top: 0.5rem; /* Ajusta a margem superior */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px; /* Aumenta o tamanho da fonte */
+    transition: border-color 0.3s; /* Transição suave */
+}
+
+form input:focus, form select:focus {
+    border-color: #4CAF50; /* Cor do borda ao focar */
+    outline: none; /* Remove contorno padrão */
+}
+
+/* Botão Google*/
+.google-signin-button {
+    margin-top: 1rem; /* Espaço entre o botão de registrar e o botão do Google */
+    padding: 10px 20px;
+    background-color: #e83535; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%; /* Para o botão ocupar toda a largura disponível */
+    max-width: 300px; /* Limita a largura máxima do botão */
+}
+
+.google-signin-button:hover {
+    background-color: #940404; /* Efeito de hover */
+    
+}
+
+.password-input-container {
+    position: relative; /* Necessário para posicionar o ícone absoluto */
+    width: 100%; /* Para garantir que o contêiner use toda a largura disponível */
+}
+
+.password-input-container input {
+    width: 100%; /* Para o campo de entrada ocupar toda a largura */
+    padding: 0.75rem; /* Aumenta o padding para um toque mais confortável */
+    margin-top: 0.5rem; /* Espaçamento acima do input */
+    border: 1px solid #ccc; /* Borda padrão */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-size: 16px; /* Tamanho da fonte */
+    transition: border-color 0.3s; /* Transição suave para mudança de borda */
+}
+
+.password-input-container input:focus {
+    border-color: #4CAF50; /* Cor da borda ao focar */
+    outline: none; /* Remove contorno padrão */
+}
+
+/* Estilo do ícone dentro do input */
+.eye-icon {
+    position: absolute; /* Permite posicionar o ícone em relação ao contêiner */
+    right: -80px; /* Espaço à direita do campo de entrada */
+    top: 50%; /* Centraliza verticalmente */
+    transform: translateY(-80%); /* Ajusta a posição vertical para centralizar corretamente */
+    border: none; /* Remove bordas */
+    background: transparent; /* Fundo transparente */
+    cursor: pointer; /* Cursor pointer */
+    outline: none; /* Remove contorno */
+    font-size: 18px; /* Tamanho do ícone */
+    z-index: 1; /* Fica acima do input */
+}
+
+.signup-image-container {
+    flex: 1; /* A imagem lateral ocupa 1 parte do espaço */
+    display: flex;
+    justify-content: center; /* Centraliza a imagem horizontalmente */
+}
+
+/* Estilo para o campo de seleção de instituição */
+.institution-select select {
+    width: 100%; /* Garante que o select ocupe toda a largura disponível */
+    padding: 0.75rem; /* Mantém o mesmo padding dos outros campos */
+    margin-top: 0.5rem; /* Ajusta a margem superior */
+    border: 1px solid #ccc; /* Borda padrão */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-size: 16px; /* Tamanho da fonte */
+    transition: border-color 0.3s; /* Transição suave para a borda */
+}
+
+/* Efeito ao focar no campo de seleção */
+.institution-select select:focus {
+    border-color: #4CAF50; /* Cor da borda ao focar */
+    outline: none; /* Remove contorno padrão */
+}
+/* Botão Registrar e Voltar propriedades em comum */
+button[type="submit"], .back-button {
+    width: 45%; /* Define largura igual para ambos os botões */
+    padding: 0.75rem 1rem; /* Ajusta o padding de ambos os botões */
+    height: 40px; /* Define uma altura fixa para ambos */
+    border-radius: 5px; /* Bordas arredondadas iguais */
+    font-size: 16px; /* Tamanho da fonte consistente */
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out; /* Transição suave */
+}
+
+/* Botão Registrar */
+button[type="submit"] {
+    background-color: #4CAF50; /* Verde padrão */
+    color: white;
+    border: none;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049; /* Cor ao passar o mouse */
+}
+
+/* Botão Voltar */
+.back-button {
+    background-color: #ffffff; /* Cor de fundo do botão */
+    color: #f44336; /* Cor do texto */
+    border: 1px solid #f44336; /* Borda padrão */
+}
+
+.back-button:hover {
+    background-color: #fcd6d6; /* Cor ao passar o mouse */
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Distribui os botões igualmente */
+    align-items: center; /* Garante que ambos fiquem alinhados verticalmente */
+    margin-top: 1rem; /* Dá um pouco de espaço acima dos botões */
+}

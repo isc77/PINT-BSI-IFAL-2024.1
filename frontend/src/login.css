@@ -1,0 +1,98 @@
+body {
+    background-color: #adb4aa; /* Cor de fundo do corpo */
+    display: flex; /* Ativa o layout flex */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    min-height: 100vh; /* Garante que o corpo ocupe a altura total da tela */
+    margin: 0; /* Remove margens padrão */
+}
+
+.signup-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+.signup-container {
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    width: 100%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 1rem; 
+    background-color: #ffffff; 
+    border-radius: 12px; 
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); 
+}
+
+.logo-container {
+    flex: 2; 
+    display: flex;
+    justify-content: left;
+    margin-right: 3rem; 
+}
+
+
+/* Botão Google*/
+.google-signin-button {
+    margin-top: 1rem; /* Espaço entre o botão de registrar e o botão do Google */
+    padding: 10px 20px;
+    background-color: #e83535; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%; /* Para o botão ocupar toda a largura disponível */
+    max-width: 300px; /* Limita a largura máxima do botão */
+}
+
+.google-signin-button:hover {
+    background-color: #940404; /* Efeito de hover */
+    
+}
+
+/* Botão Registrar e Voltar propriedades em comum */
+button[type="submit"], .back-button {
+    width: 45%; /* Define largura igual para ambos os botões */
+    padding: 0.75rem 1rem; /* Ajusta o padding de ambos os botões */
+    height: 40px; /* Define uma altura fixa para ambos */
+    border-radius: 5px; /* Bordas arredondadas iguais */
+    font-size: 16px; /* Tamanho da fonte consistente */
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out; /* Transição suave */
+}
+
+/* Botão Registrar */
+button[type="submit"] {
+    background-color: #4CAF50; /* Verde padrão */
+    color: white;
+    border: none;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049; /* Cor ao passar o mouse */
+}
+
+/* Botão Voltar */
+.back-button {
+    background-color: #ffffff; /* Cor de fundo do botão */
+    color: #f44336; /* Cor do texto */
+    border: 1px solid #f44336; /* Borda padrão */
+}
+
+.back-button:hover {
+    background-color: #fcd6d6; /* Cor ao passar o mouse */
+}
+
+/* Estilização do container dos botões */
+.button-group {
+    display: flex;
+    justify-content: space-between; /* Distribui os botões igualmente */
+    align-items: center; /* Garante que ambos fiquem alinhados verticalmente */
+    margin-top: 1rem; /* Dá um pouco de espaço acima dos botões */
+}
+

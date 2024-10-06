@@ -1,3 +1,4 @@
+/* App. */
 /* Estilos gerais */
 body {
   margin: 0;
@@ -141,10 +142,12 @@ p {
 .hero-content h1 {
   font-size: 2.5rem;
   margin-bottom: 20px;
+  color: #ffffff;
 }
 
 .hero-content p {
   font-size: 1.2rem;
+  color:#d7d7d7
 }
 
 
