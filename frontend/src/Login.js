@@ -118,7 +118,7 @@ function Login() {
 
                     {/* Link para cadastro */}
                     <div style={{ textAlign: 'center', marginTop: '10px' }}>
-                        <a href="/signup">Não tem conta ainda? Cadastre-se aqui</a>
+                        <a href="/signup">Não tem uma conta ainda? Cadastre-se aqui</a>
                     </div>
                 </div>
             </div>
