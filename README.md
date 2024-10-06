@@ -74,7 +74,7 @@ O **ProvaEDU** é uma plataforma online desenvolvida para facilitar a criação,
 ### Equipe de Desenvolvimento
 
 - **Euber Marinho**
-- **Isaac Barros** 
+- **Isaac Barros D** 
 - **Luiz Gabriel** 
 - **Ronalde Kelvyn**:
 
